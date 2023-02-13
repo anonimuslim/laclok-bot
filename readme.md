@@ -1,3 +1,4 @@
+## How to Use
 1. Create "New Repls" using "Import from GitHub"
 
 2. If error, create a "New Repls" & clone the repository manually.
@@ -18,5 +19,5 @@
 
 8. Done!
 
-# Video tutorials
+## Video tutorials
 [![How to use laclok-bot on Repl](https://img.youtube.com/vi/1CZ-2iYTB10/sddefault.jpg)](https://www.youtube.com/watch?v=1CZ-2iYTB10)
